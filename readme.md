@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis" />
   
   <h3> Areas of Interest </h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,docker,supabase,vercel,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=docker,supabase,vercel,prisma,graphql,rust" />
 
   <h3> Contact </h3>
   <a href="mailto:ruska1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
